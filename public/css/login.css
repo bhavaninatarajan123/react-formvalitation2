@@ -1,0 +1,63 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box; }
+ #login-form{
+    padding-top: 10%;
+} 
+h1{
+    text-align: center;
+}
+.card-login{
+    background-color:purple;
+    padding-top: 25px; 
+     padding-bottom: 25px;
+    width: 60%;
+    height: 50%;
+    margin: auto;
+
+}
+.card-form{
+    padding-top: 30px;
+}
+.input-icon i{
+    position: absolute;
+    
+}
+.input-icon{
+    width:50%;
+    margin: auto;
+    margin-bottom: 10px;
+}
+.icon{
+    padding: 10px;
+    color: #000;;
+    min-width: 60px;
+    text-align: center;
+    height: 40px;
+    background-color:gray;
+}
+   
+.input-field{
+    width:100%;
+    padding: 10px;
+    text-align: center;
+}
+.input-icon-1 input{
+    padding:10px;
+    border: none;
+    
+    background-color:gray;
+    border-radius: 20px 20px  ;
+    
+    width: 25%;
+
+}
+
+.input-icon-1 {
+    padding-left: 40%;
+}
+
+.input-icon-1 input:hover{
+    background-color: #dcdcdc;
+}

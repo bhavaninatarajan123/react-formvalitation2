@@ -1,0 +1,100 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+#reg-form{
+    padding-top: 5%;
+    
+}
+#reg-content{
+    padding: 10px;
+    
+}
+.reg{
+    padding-top: 10%
+}
+.reg-content input{
+    margin:15px;
+    margin-left:20%;
+}
+#input-field-1-reg {
+    padding : 15px;
+    width:65%;
+    margin: 10px 20%;
+    text-align: center;
+    
+    padding: 10px;
+    text-align: center;
+}
+
+h1 ,h3{
+    text-align: center;
+    padding:10px;
+}
+#card-reg{
+    background-color:purple;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    width: 60%;
+    height: 70%;
+    margin: auto;
+    
+
+}
+
+#btn{
+    width:25%;
+    background-color:gray;
+    border-radius: 20px 20px;
+    padding:10px;
+    border: none;
+
+}
+
+#button{
+    padding-left: 40%;
+    padding-top:2%;
+}
+#reg-btn input{
+    width:50%;
+   
+    padding:10px;
+   
+    border-radius: 20px 20px;
+   
+       
+}
+#reg-btn input:hover{
+    background-color:#ffff;
+}
+span{
+    padding-left: 25%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
